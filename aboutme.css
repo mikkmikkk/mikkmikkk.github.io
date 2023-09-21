@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('images/mic.png'); /* Replace 'background.jpg' with your image file */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Garamond, Serif;
+}
+
+.main-content {
+    margin-top: 50px;
+    text-align: left;
+    padding: 20px;
+    font-size:xx-large;
+    margin: 0 auto;
+    position: absolute;
+    top: 20%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+}
+.hello {
+    font-size: 7rem;
+    margin-top: 500px;
+    margin-bottom: 30px;
+    color: black; /* Text color */
+}
+
+ 
