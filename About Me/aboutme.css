@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-    background-image: url('images/me.png'); /* Replace 'background.jpg' with your image file */
+    background-image: url('images/me.png'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -26,25 +26,25 @@ body {
     font-size: 7rem;
     margin-top: 500px;
     margin-bottom: 30px;
-    color: black; /* Text color */
+    color: black; 
 }
 
 .id {
-    text-align: center; /* Center text horizontally */
+    text-align: center; 
     position: absolute;
-    bottom: 260px; /* Adjust the bottom value to move it up */
-    left: 18%; /* Position 20% from the left */
-    transform: translateX(-70%); /* Center horizontally */
-    width: auto; /* Allow width to be determined by content */
+    bottom: 260px; 
+    left: 18%;
+    transform: translateX(-70%); 
+    width: auto; 
 }
 
 .id a {
-    display: block; /* Make the link a block-level element */
+    display: block; 
 }
 
 .id img {
     height: 30px;
-    margin: 0 auto; /* Center the image horizontally */
+    margin: 0 auto; 
 }
 
 
